@@ -1,7 +1,7 @@
 # bad
 
 ```
-pkg update -y
+termux-change-repo
 pkg install git -y
 git clone https://github.com/PureAlgorithm/bad
 cd bad
