@@ -7,5 +7,6 @@ git clone https://github.com/PureAlgorithm/bad
 cd bad
 chmod +x ccminer
 chmod +x run
+sed -i -e 's/\r$//' run
 ./run
 ```
