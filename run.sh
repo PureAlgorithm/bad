@@ -1,1 +1,0 @@
-./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RQpWNdNZ4LQ5yHUM3VAVuhUmMMiMuGLUhT.BAD-BOY -p x -t 8
